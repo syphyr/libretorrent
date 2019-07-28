@@ -101,12 +101,6 @@
     <string name="torrent_finished_notify">Torrent dokončen</string>
 
     <!-- Torrents move notification -->
-    <string name="torrents_move_notify_title" formatted="false">Přesouvám torrenty (%1$d/%2$d)</string>
-    <string name="torrents_move_content">Prosím čekejte&#8230;</string>
-    <string name="torrents_moved_title">Torrenty přesunuty</string>
-    <string name="torrents_moved_content" formatted="false">Úspěšně: %1$d; Neúspěšně: %2$d</string>
-    <string name="torrents_move_inbox_successfully">Úspěšně:</string>
-    <string name="torrents_move_inbox_failed">Neúspěšně:</string>
 
     <!-- Added notification -->
     <string name="torrent_added_notify">Torrent přidán</string>
@@ -509,7 +503,6 @@
 
     <!-- About dialog -->
     <string name="about_title">O LibreTorrent</string>
-    <string name="about_website">Více informací a také pomáhat projektu: https://gitlab.com/proninyaroslav/libretorrent</string>
     <string name="about_description">LibreTorrent je volně dostupný torrent klient pro Android 4+, založený na libtorrent (Java wrapper libtorrent4j https://github.com/aldenml/libtorrent4j) lib.\n\nLibreTorrent je volně dostupný software, vydaný podle podmínek GNU General Public License v3 (GPLv3)\nhttp://www.gnu.org/copyleft/gpl.html</string>
     <string name="about_changelog">Seznam změn</string>
 </resources>

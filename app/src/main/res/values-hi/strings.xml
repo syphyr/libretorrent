@@ -101,12 +101,6 @@
     <string name="torrent_finished_notify">धार समाप्त हो गई</string>
 
     <!-- Torrents move notification -->
-    <string name="torrents_move_notify_title" formatted="false">चलती धार (%1$d/%2$d)</string>
-    <string name="torrents_move_content">कृपया प्रतीक्षा करें&#8230;</string>
-    <string name="torrents_moved_title">टोरेंट हिल गए</string>
-    <string name="torrents_moved_content" formatted="false">सफलतापूर्वक: %1$d; अनुत्तीर्ण होना: %2$d</string>
-    <string name="torrents_move_inbox_successfully">सफलतापूर्वक:</string>
-    <string name="torrents_move_inbox_failed">अनुत्तीर्ण होना:</string>
 
     <!-- Added notification -->
     <string name="torrent_added_notify">धार गयी</string>
@@ -511,7 +505,6 @@
 
     <!-- About dialog -->
       <string name="about_title">LibreTorrent के बारे में</string>
-    <string name="about_website">अधिक जानकारी https://gitlab.com/proninyaroslav/libretorrent पर उपलब्ध है</string>
     <string name="about_description">LibreTorrent एक फ्री है जैसा कि एंड्रॉइड 4 के लिए फ्रीडम टोरेंट क्लाइंट में है, जो कि libtorrent पर आधारित है। \ n \ nLibreTorrent मुफ्त सॉफ्टवेयर है</string>
     <string name="about_changelog">बदलाव का</string>
 </resources>

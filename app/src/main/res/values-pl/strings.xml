@@ -101,12 +101,6 @@
     <string name="torrent_finished_notify">Torrent ukończony</string>
 
     <!-- Torrents move notification -->
-    <string name="torrents_move_notify_title" formatted="false">Przenoszenie torrent\'ów (%1$d/%2$d)</string>
-    <string name="torrents_move_content">Proszę czekać&#8230;</string>
-    <string name="torrents_moved_title">Torrent przeniesiony</string>
-    <string name="torrents_moved_content" formatted="false">Pomyślnie: %1$d; Niepomyślnie: %2$d</string>
-    <string name="torrents_move_inbox_successfully">Pomyślnie:</string>
-    <string name="torrents_move_inbox_failed">Niepomyślnie:</string>
 
     <!-- Added notification -->
     <string name="torrent_added_notify">Torrent dodano</string>
@@ -509,7 +503,6 @@
 
     <!-- About dialog -->
     <string name="about_title">Informacje o LibreTorrent</string>
-    <string name="about_website">Więcej informacji a także pomóc projekt: https://gitlab.com/proninyaroslav/libretorrent</string>
     <string name="about_description">LibreTorrent jest Wolnym klientem sieci Torrent dla urządzeń z Android 4 i nowszymi, opartym na libtorrent (Java wrapper libtorrent4j https://github.com/aldenml/libtorrent4j) lib.\n\nLibreTorrent jest Wolnym oprogramowaniem wydanym na zasadach wyrażonych w GNU General Public License v3 (GPLv3)\nhttp://www.gnu.org/copyleft/gpl.html</string>
     <string name="about_changelog">Changelog</string>
 </resources>

@@ -101,12 +101,6 @@
     <string name="torrent_finished_notify">Το torrent κατέβηκε</string>
 
     <!-- Torrents move notification -->
-    <string name="torrents_move_notify_title" formatted="false">Γίνεται μετακίνηση torrents (%1$d/%2$d)</string>
-    <string name="torrents_move_content">Παρακαλώ περιμένετε&#8230;</string>
-    <string name="torrents_moved_title">Τα torrents μετακινήθηκαν</string>
-    <string name="torrents_moved_content" formatted="false">Επιτυχώς: %1$d; Απέτυχε: %2$d</string>
-    <string name="torrents_move_inbox_successfully">Επιτυχώς:</string>
-    <string name="torrents_move_inbox_failed">Απέτυχε:</string>
 
     <!-- Added notification -->
     <string name="torrent_added_notify">Torrent пροστέθηκε</string>
@@ -509,7 +503,6 @@
 
     <!-- About dialog -->
     <string name="about_title">Σχετικά με το LibreTorrent</string>
-    <string name="about_website">Περισσότερες πληροφορίες και επίσης να βοηθήσει το έργο: https://gitlab.com/proninyaroslav/libretorrent</string>
     <string name="about_description">Το LibreTorrent είναι ένας ελεύθερος πελάτης torrent για Android 4+, βασισμένο στο libtorrent (πακέτο για Java: libtorrent4j https://github.com/aldenml/libtorrent4j). \n\nΤο LibreTorrent είναι ελεύθερο λογισμικό και διατίθεται υπό τους όρους της Γενικής Άδειας Δημόσιας Χρήσης GNU, έκδοση 3 (GPLv3)\nhttp://www.gnu.org/copyleft/gpl.html</string>
     <string name="about_changelog">Αρχείο αλλαγών</string>
 </resources>

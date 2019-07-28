@@ -93,12 +93,6 @@
     <string name="torrent_finished_notify">Торрент загружен</string>
 
     <!-- Torrents move notification -->
-    <string name="torrents_move_notify_title" formatted="false">Перемещение торрентов (%1$d/%2$d)</string>
-    <string name="torrents_move_content">Пожалуйста, подождите&#8230;</string>
-    <string name="torrents_moved_title">Торренты перемещены</string>
-    <string name="torrents_moved_content" formatted="false">Удачно: %1$d; Не удалось: %2$d</string>
-    <string name="torrents_move_inbox_successfully">Удачно:</string>
-    <string name="torrents_move_inbox_failed">Не удалось:</string>
 
     <!-- Added notification -->
     <string name="torrent_added_notify">Торрент добавлен</string>
@@ -490,7 +484,6 @@
 
     <!-- About dialog -->
     <string name="about_title">О LibreTorrent</string>
-    <string name="about_website">Больше информации, а также помочь проекту: https://gitlab.com/proninyaroslav/libretorrent</string>
     <string name="about_description">LibreTorrent - свободный торрент-клиент для Android 4+, основанный на библиотеке libtorrent (Java обёртка libtorrent4j https://github.com/aldenml/libtorrent4j).\n\nLibreTorrent является свободным программным обеспечением, выпущенным в соответствии с условиями лицензии GNU General Public License v3 (GPLv3)\nhttp://www.gnu.org/copyleft/gpl.html</string>
     <string name="about_changelog">Изменения</string>
 </resources>

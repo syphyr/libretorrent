@@ -101,12 +101,6 @@
     <string name="torrent_finished_notify">Torentas baigtas siųsti</string>
 
     <!-- Torrents move notification -->
-    <string name="torrents_move_notify_title" formatted="false">Perkelia torentus (%1$d/%2$d)</string>
-    <string name="torrents_move_content">Prašome palaukti&#8230;</string>
-    <string name="torrents_moved_title">Torentai perkelti</string>
-    <string name="torrents_moved_content" formatted="false">Sėkmingų: %1$d; Nesėkmingų: %2$d</string>
-    <string name="torrents_move_inbox_successfully">Sėkmingai:</string>
-    <string name="torrents_move_inbox_failed">Nepavyko:</string>
 
     <!-- Added notification -->
     <string name="torrent_added_notify">Torrent pridėta</string>
@@ -508,7 +502,6 @@
 
     <!-- About dialog -->
     <string name="about_title">Apie LibreTorrent</string>
-    <string name="about_website">Daugiau informacijos ir taip pat padėti projektą: https://gitlab.com/proninyaroslav/libretorrent</string>
     <string name="about_description">LibreTorrent yra laisvas kaip pati laisvė torrentų klientas Android 4+, paremtas libtorrent (Java wrapper libtorrent4j https://github.com/aldenml/libtorrent4j) lib.\n\nLibreTorrent yra nemokama programa, išleista pagal GNU General Public License v3 (GPLv3)\nhttp://www.gnu.org/copyleft/gpl.html</string>
     <string name="about_changelog">Pakeitimų žurnalas</string>
 </resources>

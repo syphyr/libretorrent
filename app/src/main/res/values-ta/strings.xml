@@ -101,12 +101,6 @@
     <string name="torrent_finished_notify">டொரண்ட் முடிந்தது</string>
 
     <!-- Torrents move notification -->
-    <string name="torrents_move_notify_title" formatted="false">தொடுகின்ற நகர்த்தல்கள் (%1$d/%2$d)</string>
-    <string name="torrents_move_content">காத்திருக்கவும்&#8230;</string>
-    <string name="torrents_moved_title">தொந்தரவுகள் நகர்ந்தன</string>
-    <string name="torrents_moved_content" formatted="false">வெற்றிகரமாக: %1$d; தோல்வியடைந்தது: %2$d</string>
-    <string name="torrents_move_inbox_successfully">வெற்றிகரமாக:</string>
-    <string name="torrents_move_inbox_failed">தோல்வியடைந்தது:</string>
 
     <!-- Added notification -->
     <string name="torrent_added_notify">டொரண்ட் சேர்க்கப்பட்டது</string>
@@ -511,7 +505,6 @@
 
     <!-- About dialog -->
     <string name="about_title">LibreTorrent பற்றி</string>
-    <string name="about_website">மேலும் தகவலுக்கு https://gitlab.com/proninyaroslav/libretorrent இல் கிடைக்கும்</string>
     <string name="about_description">ஃப்ளாஷ் டாரண்ட் ஆனது அண்ட்ராய்டிற்கான ஃப்ரீடம் டொரண்ட் கிளையண்ட்டில் ஒரு இலவசமானது, லிப்டோரண்ட் அடிப்படையிலானது. \ N \ nLibreTorrent இலவச மென்பொருள்</string>
     <string name="about_changelog">சேஞ்ச்</string>
 </resources>
